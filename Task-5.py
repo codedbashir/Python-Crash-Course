@@ -1,5 +1,5 @@
 # Create a list that contains  at least one string, one integer and one float
-list_1 = [1, 'punch', 3.2, 15, 'guardian',]
+'''list_1 = [1, 'punch', 3.2, 15, 'guardian',]
 print(f'This is a list that contains number, string and float {list_1}')
 
 # Grab 2 from this list
@@ -60,3 +60,4 @@ print(my_dict['k1'][0]['nest key'][1][0])
 #Q15
 my_diction = {'k1':[1,2,{'k2':['this is tricky', {'tough':[1,2,['hello']]}]}]}
 print(my_diction['k1'][2]['k2'][1]['tough'][2][0])
+'''
